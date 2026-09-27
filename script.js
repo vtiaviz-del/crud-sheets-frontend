@@ -1,5 +1,5 @@
 // Substitua pela URL da sua implantação do Apps Script
-const API_URL = "https://script.google.com/macros/s/AKfycbyt06SBkCdDyTfAJV737r40KEt85ZB_5AosWC5iSuLSIWB-YjNCZ9VeJ43fjt4rq_0V/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwNKikJMjDDTLaob2HHq-Q9xS7tThX8Fddegqi2TYi1N30RTw-OFJQMrYT8NS2hVtSZUQ/exec";
 
 // Elementos do DOM
 const productForm = document.getElementById("productForm");
